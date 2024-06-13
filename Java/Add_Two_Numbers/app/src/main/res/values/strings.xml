@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Add_Two_Numbers</string>
+    <string name="first_textView">"First Number : "</string>
+    <string name="second_textView">"Second Number : "</string>
+    <string name="Button_value">Click Here to Add Numbers</string>
+    <string name="result">"Result will be :  "</string>
+    <string name="first_number_hint">Enter First Number</string>
+    <string name="second_number_hint">Enter Second Number</string>
+</resources>
